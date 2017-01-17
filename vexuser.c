@@ -126,8 +126,11 @@ vexAutonomous( void *arg )
     return (msg_t)0;
 }
 
-#define MotorDriveL     kVexMotor_1
-#define MotorDriveR     kVexMotor_10
+#define MotorDriveFR     kVexMotor_2
+#define MotorDriveFL     kVexMotor_3
+#define MotorDriveBR     kVexMotor_4
+#define MotorDriveBL     kVexMotor_5
+
 
 /*-----------------------------------------------------------------------------*/
 /** @brief      Driver control                                                 */
@@ -148,22 +151,23 @@ vexOperator( void *arg )
 	// Run until asked to terminate
 	while(!chThdShouldTerminate())
 		{
-		// flash led/digi out
-		//vexDigitalPinSet( kVexDigital_1, (blink++ >> 3) & 1);
+		
 
-		// status on LCD of encoder and sonar
-		//vexLcdPrintf( VEX_LCD_DISPLAY_2, VEX_LCD_LINE_1, "%4.2fV   %8.1f", vexSpiGetMainBattery() / 1000.0, chTimeNow() / 1000.0 );
-		//vexLcdPrintf( VEX_LCD_DISPLAY_2, VEX_LCD_LINE_2, "L %3d R %3d", vexMotorGet( MotorDriveL ), vexMotorGet( MotorDriveR ) );
+            char a, b, c;
 
-		// Tank drive
-		// left drive
-		vexMotorSet( MotorDriveL, vexControllerGet( Ch3 ) );
+            a=vexControllerGet(Ch4);
+            b=vexControllerGet(Ch3);
+            c=vexControllerGet(Ch1);
 
-		// right drive
-		vexMotorSet( MotorDriveR, vexControllerGet( Ch2 ) );
+            vexMotorSet( MotorDriveFR, a+b+c );
+            vexMotorSet( MotorDriveFL, ((-1)*a)+b+c );
+            vexMotorSet( MotorDriveBR, ((-1)*a)-b+c );
+            vexMotorSet( MotorDriveBL, a-b+c );
+
+
 
 		// Don't hog cpu
-		vexSleep( 25 );
+		  vexSleep( 25 );
 		}
 
 	return (msg_t)0;
