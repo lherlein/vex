@@ -130,7 +130,7 @@ vexAutonomous( void *arg )
 #define MotorDriveFL     kVexMotor_4
 #define MotorDriveBR     kVexMotor_3
 #define MotorDriveBL     kVexMotor_2
-
+#define HYSTERESIS       50
 
 /*-----------------------------------------------------------------------------*/
 /** @brief      Driver control                                                 */
@@ -138,6 +138,15 @@ vexAutonomous( void *arg )
 /** @details
  *  This thread is started when the driver control period is started
  */
+
+signed char 
+clipChar(signed char a)
+{
+    if(a>127)   a=127;
+    if(a<(-127) a=-127;
+    return a;
+}
+
 msg_t
 vexOperator( void *arg )
 {
@@ -155,13 +164,36 @@ vexOperator( void *arg )
 
             char a, b;
 
-            a=vexControllerGet(Ch4);
-            b=vexControllerGet(Ch3);
+            a=vexControllerGet(Ch3);
+            b=vexControllerGet(Ch4);
 
-            vexMotorSet( MotorDriveFL, a+b );
-            vexMotorSet( MotorDriveFR, ((-1)*a)+b );
-            vexMotorSet( MotorDriveBL, a+b );
-            vexMotorSet( MotorDriveBR, ((-1)*a)+b );
+            int go=0;
+            if ( (abs(a)>HYSTERESIS) || (abs(b)>HYSTERESIS) ) go=1;
+
+            if(go==1)
+            {
+                signed char fl=a+b;
+                signed char fr=((-1)*a)+b;
+                signed char bl=((-1)*a)+b;
+                signed char br=a+b;
+
+                fl=clipChar(fl);
+                fr=clipChar(fr);
+                bl=clipChar(bl);
+                br=clipChar(br);
+
+                vexMotorSet( MotorDriveFL, fl );
+                vexMotorSet( MotorDriveFR, fr );
+                vexMotorSet( MotorDriveBL, bl );
+                vexMotorSet( MotorDriveBR, br );
+            } else
+            {
+                vexMotorSet( MotorDriveFL, 0 );
+                vexMotorSet( MotorDriveFR, 0 );
+                vexMotorSet( MotorDriveBL, 0 );
+                vexMotorSet( MotorDriveBR, 0 );
+            }
+
 
 
 
