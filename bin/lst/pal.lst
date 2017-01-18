@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
   55              	palWriteBus:
   56              	.LFB64:
   57              		.loc 1 103 0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 2
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 2
 
 
   58              		.cfi_startproc
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  112 000a 04FA03F1 		lsl	r1, r4, r3
  113              	.LVL6:
  114              		.loc 1 133 0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 3
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 3
 
 
  115 000e 10BC     		pop	{r4}
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  169 004a 08       		.byte	0x8
  170 004b 63000000 		.4byte	.LASF4
  171 004f 03       		.uleb128 0x3
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 4
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 4
 
 
  172 0050 02       		.byte	0x2
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  226 00bc 03       		.uleb128 0x3
  227 00bd 01       		.byte	0x1
  228 00be 08       		.byte	0x8
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 5
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 5
 
 
  229 00bf FA000000 		.4byte	.LASF17
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  283 0133 0104     		.2byte	0x401
  284 0135 C8000000 		.4byte	0xc8
  285 0139 04       		.uleb128 0x4
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 6
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 6
 
 
  286 013a 4D000000 		.4byte	.LASF21
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  340 01ac 9C       		.byte	0x9c
  341 01ad C1010000 		.4byte	0x1c1
  342 01b1 0E       		.uleb128 0xe
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 7
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 7
 
 
  343 01b2 62757300 		.ascii	"bus\000"
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  397 022d 14000000 		.4byte	.LVL7
  398 0231 4A020000 		.4byte	0x24a
  399 0235 13       		.uleb128 0x13
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 8
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 8
 
 
  400 0236 01       		.uleb128 0x1
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  454 0021 0B       		.uleb128 0xb
  455 0022 0B       		.uleb128 0xb
  456 0023 3E       		.uleb128 0x3e
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 9
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 9
 
 
  457 0024 0B       		.uleb128 0xb
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  511 005a 0D       		.uleb128 0xd
  512 005b 00       		.byte	0
  513 005c 03       		.uleb128 0x3
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 10
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 10
 
 
  514 005d 0E       		.uleb128 0xe
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  568 0093 0B       		.uleb128 0xb
  569 0094 49       		.uleb128 0x49
  570 0095 13       		.uleb128 0x13
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 11
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 11
 
 
  571 0096 38       		.uleb128 0x38
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  625 00cd 0B       		.uleb128 0xb
  626 00ce 3B       		.uleb128 0x3b
  627 00cf 0B       		.uleb128 0xb
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 12
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 12
 
 
  628 00d0 27       		.uleb128 0x27
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  682 010a 00       		.byte	0
  683 010b 13       		.uleb128 0x13
  684 010c 8A8201   		.uleb128 0x410a
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 13
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 13
 
 
  685 010f 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  739 0017 50       		.byte	0x50
  740 0018 9F       		.byte	0x9f
  741 0019 00000000 		.4byte	0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 14
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 14
 
 
  742 001d 00000000 		.4byte	0
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  796 000e 0000     		.2byte	0
  797 0010 00000000 		.4byte	.LFB63
  798 0014 0E000000 		.4byte	.LFE63-.LFB63
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 15
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 15
 
 
  799 0018 00000000 		.4byte	.LFB64
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  834              	.LASF21:
  835 004d 696F706F 		.ascii	"ioportmask_t\000"
  835      72746D61 
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 16
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 16
 
 
  835      736B5F74 
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  856              	.LASF17:
  857 00fa 63686172 		.ascii	"char\000"
  857      00
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 17
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 17
 
 
  858              	.LASF31:
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  881 0218 696F706F 		.ascii	"ioportid_t\000"
  881      72746964 
  881      5F7400
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 18
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 18
 
 
  882              	.LASF34:
@@ -1056,17 +1056,17 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 1
  897 028c 494F4275 		.ascii	"IOBus\000"
  897      7300
  898              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160919 (release) [ARM/embedded-5-bran
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s 			page 19
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s 			page 19
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 pal.c
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:20     .text.palReadBus:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:26     .text.palReadBus:0000000000000000 palReadBus
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:49     .text.palWriteBus:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:55     .text.palWriteBus:0000000000000000 palWriteBus
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:89     .text.palSetBusMode:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccbQuEpI.s:95     .text.palSetBusMode:0000000000000000 palSetBusMode
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:20     .text.palReadBus:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:26     .text.palReadBus:0000000000000000 palReadBus
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:49     .text.palWriteBus:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:55     .text.palWriteBus:0000000000000000 palWriteBus
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:89     .text.palSetBusMode:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccVu1Yrv.s:95     .text.palSetBusMode:0000000000000000 palSetBusMode
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

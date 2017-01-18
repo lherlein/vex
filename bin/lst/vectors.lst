@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
   55              		.thumb_set Vector110,_unhandled_exception
   56              		.weak	Vector10C
   57              		.thumb_set Vector10C,_unhandled_exception
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 2
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 2
 
 
   58              		.weak	Vector108
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  112              		.weak	Vector9C
  113              		.thumb_set Vector9C,_unhandled_exception
  114              		.weak	Vector98
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 3
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 3
 
 
  115              		.thumb_set Vector98,_unhandled_exception
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  169              		.thumb_set SVCallVector,_unhandled_exception
  170              		.weak	Vector28
  171              		.thumb_set Vector28,_unhandled_exception
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 4
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 4
 
 
  172              		.weak	Vector24
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  226 0080 00000000 		.word	Vector80
  227 0084 00000000 		.word	Vector84
  228 0088 00000000 		.word	Vector88
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 5
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 5
 
 
  229 008c 00000000 		.word	Vector8C
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  283 0011 97000000 		.4byte	.LASF37
  284 0015 88020000 		.4byte	.LASF38
  285 0019 00000000 		.4byte	.Ldebug_ranges0+0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 6
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 6
 
 
  286 001d 00000000 		.4byte	0
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  340 0083 30       		.byte	0x30
  341 0084 64000000 		.4byte	0x64
  342 0088 03       		.uleb128 0x3
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 7
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 7
 
 
  343 0089 01       		.byte	0x1
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  397 00f3 10       		.byte	0x10
  398 00f4 08       		.uleb128 0x8
  399 00f5 F9000000 		.4byte	.LASF21
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 8
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 8
 
 
  400 00f9 01       		.byte	0x1
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  454 0165 01       		.byte	0x1
  455 0166 5C       		.byte	0x5c
  456 0167 9D000000 		.4byte	0x9d
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 9
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 9
 
 
  457 016b 38       		.byte	0x38
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  511 0001 11       		.uleb128 0x11
  512 0002 01       		.byte	0x1
  513 0003 25       		.uleb128 0x25
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 10
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 10
 
 
  514 0004 0E       		.uleb128 0xe
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  568 003a 0B       		.uleb128 0xb
  569 003b 49       		.uleb128 0x49
  570 003c 13       		.uleb128 0x13
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 11
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 11
 
 
  571 003d 00       		.byte	0
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  625 0073 00       		.byte	0
  626 0074 0B       		.uleb128 0xb
  627 0075 2E       		.uleb128 0x2e
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 12
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 12
 
 
  628 0076 00       		.byte	0
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  682 00ae 18       		.uleb128 0x18
  683 00af 00       		.byte	0
  684 00b0 00       		.byte	0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 13
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 13
 
 
  685 00b1 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  720      676E6564 
  720      20636861 
  720      7200
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 14
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 14
 
 
  721              	.LASF8:
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  742      00
  743              	.LASF22:
  744 0112 75736167 		.ascii	"usagefault_vector\000"
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 15
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 15
 
 
  744      65666175 
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  762 023e 63686172 		.ascii	"char\000"
  762      00
  763              	.LASF20:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 16
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 16
 
 
  764 0243 6D656D6D 		.ascii	"memmanage_vector\000"
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  786      00
  787              	.LASF12:
  788 02f1 5F426F6F 		.ascii	"_Bool\000"
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 17
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 17
 
 
  788      6C00
@@ -969,92 +969,92 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 1
  790      5F656E64 
  790      5F5F00
  791              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160919 (release) [ARM/embedded-5-bran
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 18
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 18
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 vectors.c
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:20     .text._unhandled_exception:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 _unhandled_exception
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector12C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector128
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector124
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector120
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector11C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector118
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector114
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector110
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector10C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector108
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector104
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector100
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorFC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorF8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorF4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorF0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorEC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorE8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorE4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorE0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorDC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorD8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorD4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorD0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorCC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorC8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorC4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorC0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorBC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorB8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorB4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorB0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorAC
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorA8
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorA4
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 VectorA0
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector9C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector98
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector94
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector90
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector8C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector88
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector84
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector80
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector7C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector78
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector74
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector70
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector6C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector68
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector64
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector60
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector5C
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s 			page 19
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:20     .text._unhandled_exception:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 _unhandled_exception
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector12C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector128
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector124
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector120
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector11C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector118
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector114
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector110
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector10C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector108
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector104
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector100
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorFC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorF8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorF4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorF0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorEC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorE8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorE4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorE0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorDC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorD8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorD4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorD0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorCC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorC8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorC4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorC0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorBC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorB8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorB4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorB0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorAC
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorA8
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorA4
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 VectorA0
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector9C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector98
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector94
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector90
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector8C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector88
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector84
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector80
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector7C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector78
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector74
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector70
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector6C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector68
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector64
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector60
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector5C
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s 			page 19
 
 
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector58
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector54
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector50
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector4C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector48
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector44
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector40
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 SysTickVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 PendSVVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector34
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 DebugMonitorVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 SVCallVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector28
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector24
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector20
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 Vector1C
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 UsageFaultVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 BusFaultVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 MemManageVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 HardFaultVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:26     .text._unhandled_exception:0000000000000000 NMIVector
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:193    vectors:0000000000000000 _vectors
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccfVjsaP.s:190    vectors:0000000000000000 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector58
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector54
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector50
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector4C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector48
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector44
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector40
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 SysTickVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 PendSVVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector34
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 DebugMonitorVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 SVCallVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector28
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector24
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector20
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 Vector1C
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 UsageFaultVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 BusFaultVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 MemManageVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 HardFaultVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:26     .text._unhandled_exception:0000000000000000 NMIVector
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:193    vectors:0000000000000000 _vectors
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccm9JArf.s:190    vectors:0000000000000000 $d
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

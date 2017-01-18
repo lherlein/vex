@@ -126,10 +126,10 @@ vexAutonomous( void *arg )
     return (msg_t)0;
 }
 
-#define MotorDriveFR     kVexMotor_2
-#define MotorDriveFL     kVexMotor_3
-#define MotorDriveBR     kVexMotor_4
-#define MotorDriveBL     kVexMotor_5
+#define MotorDriveFR     kVexMotor_5
+#define MotorDriveFL     kVexMotor_4
+#define MotorDriveBR     kVexMotor_3
+#define MotorDriveBL     kVexMotor_2
 
 
 /*-----------------------------------------------------------------------------*/
@@ -153,16 +153,15 @@ vexOperator( void *arg )
 		{
 		
 
-            char a, b, c;
+            char a, b;
 
             a=vexControllerGet(Ch4);
             b=vexControllerGet(Ch3);
-            c=vexControllerGet(Ch1);
 
-            vexMotorSet( MotorDriveFR, a+b+c );
-            vexMotorSet( MotorDriveFL, ((-1)*a)+b+c );
-            vexMotorSet( MotorDriveBR, ((-1)*a)-b+c );
-            vexMotorSet( MotorDriveBL, a-b+c );
+            vexMotorSet( MotorDriveFL, a+b );
+            vexMotorSet( MotorDriveFR, ((-1)*a)+b );
+            vexMotorSet( MotorDriveBL, a+b );
+            vexMotorSet( MotorDriveBR, ((-1)*a)+b );
 
 
 

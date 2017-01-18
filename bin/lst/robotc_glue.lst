@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
   55              		.cfi_def_cfa_offset 0
   56              	.LVL4:
   57              	.LBB3:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 2
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 2
 
 
   58              		.loc 1 93 0
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  112              		.loc 1 117 0 is_stmt 0 discriminator 3
  113 0016 1A60     		str	r2, [r3]
  114              		.loc 1 118 0 is_stmt 1 discriminator 3
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 3
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 3
 
 
  115 0018 5A60     		str	r2, [r3, #4]
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  169              		.cfi_restore 3
  170              		.cfi_restore 2
  171              		.cfi_restore 1
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 4
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 4
 
 
  172              		.cfi_def_cfa_offset 0
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  226              		.cfi_restore 3
  227              		.cfi_def_cfa_offset 0
  228 008a 7047     		bx	lr
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 5
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 5
 
 
  229              	.L32:
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  283 0028 F6D1     		bne	.L34
  284              		.loc 1 178 0
  285 002a D4F80480 		ldr	r8, [r4, #4]
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 6
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 6
 
 
  286              	.LVL23:
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  340              		@ link register save eliminated.
  341              	.LVL29:
  342 0000 084B     		ldr	r3, .L50
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 7
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 7
 
 
  343 0002 10B4     		push	{r4}
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  391      00000000 
  392              		.text
  393              	.Letext0:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 8
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 8
 
 
  394              		.file 2 "/Users/Luca/src/vexilla/src/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_d
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  448 0055 08       		.byte	0x8
  449 0056 CA030000 		.4byte	.LASF4
  450 005a 04       		.uleb128 0x4
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 9
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 9
 
 
  451 005b AD050000 		.4byte	.LASF6
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  505 00ca 04       		.uleb128 0x4
  506 00cb 8F000000 		.4byte	.LASF18
  507 00cf 04       		.byte	0x4
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 10
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 10
 
 
  508 00d0 2B       		.byte	0x2b
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  562 0145 06       		.byte	0x6
  563 0146 5E       		.byte	0x5e
  564 0147 3C020000 		.4byte	0x23c
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 11
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 11
 
 
  565 014b 06       		.uleb128 0x6
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  619 01b7 06       		.uleb128 0x6
  620 01b8 76050000 		.4byte	.LASF38
  621 01bc 06       		.byte	0x6
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 12
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 12
 
 
  622 01bd 82       		.byte	0x82
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  676 0229 D4       		.byte	0xd4
  677 022a 08010000 		.4byte	0x108
  678 022e 40       		.byte	0x40
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 13
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 13
 
 
  679 022f 06       		.uleb128 0x6
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  733 0295 99020000 		.4byte	0x299
  734 0299 0A       		.uleb128 0xa
  735 029a 04       		.byte	0x4
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 14
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 14
 
 
  736 029b 0B       		.uleb128 0xb
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  790 030a 0C       		.uleb128 0xc
  791 030b 6C7200   		.ascii	"lr\000"
  792 030e 07       		.byte	0x7
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 15
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 15
 
 
  793 030f 2701     		.2byte	0x127
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  847 037b 10       		.byte	0x10
  848 037c 06       		.uleb128 0x6
  849 037d 7E030000 		.4byte	.LASF58
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 16
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 16
 
 
  850 0381 08       		.byte	0x8
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  904 03ea 0F       		.uleb128 0xf
  905 03eb 0F000000 		.4byte	.LASF65
  906 03ef 06       		.byte	0x6
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 17
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 17
 
 
  907 03f0 9D       		.byte	0x9d
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  961 0465 7F       		.sleb128 -1
  962 0466 15       		.uleb128 0x15
  963 0467 93020000 		.4byte	.LASF72
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 18
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 18
 
 
  964 046b 00       		.byte	0
@@ -1078,7 +1078,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1018 04d4 0B       		.byte	0xb
  1019 04d5 46       		.byte	0x46
  1020 04d6 17050000 		.4byte	0x517
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 19
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 19
 
 
  1021 04da 15       		.uleb128 0x15
@@ -1138,7 +1138,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1075 0541 17050000 		.4byte	0x517
  1076 0545 16       		.uleb128 0x16
  1077 0546 64000000 		.4byte	.LASF116
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 20
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 20
 
 
  1078 054a 01       		.byte	0x1
@@ -1198,7 +1198,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1132 05bc 01       		.uleb128 0x1
  1133 05bd 9C       		.byte	0x9c
  1134 05be 47060000 		.4byte	0x647
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 21
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 21
 
 
  1135 05c2 17       		.uleb128 0x17
@@ -1258,7 +1258,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1189 062a 03       		.uleb128 0x3
  1190 062b 0A       		.byte	0xa
  1191 062c F802     		.2byte	0x2f8
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 22
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 22
 
 
  1192 062e 1B       		.uleb128 0x1b
@@ -1318,7 +1318,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1246 0693 01       		.uleb128 0x1
  1247 0694 50       		.byte	0x50
  1248 0695 02       		.uleb128 0x2
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 23
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 23
 
 
  1249 0696 78       		.byte	0x78
@@ -1378,7 +1378,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1303 06fc 00       		.byte	0
  1304 06fd 20       		.uleb128 0x20
  1305 06fe 05040000 		.4byte	.LASF105
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 24
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 24
 
 
  1306 0702 01       		.byte	0x1
@@ -1438,7 +1438,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1360 000a 0E       		.uleb128 0xe
  1361 000b 55       		.uleb128 0x55
  1362 000c 17       		.uleb128 0x17
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 25
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 25
 
 
  1363 000d 11       		.uleb128 0x11
@@ -1498,7 +1498,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1417 0043 00       		.byte	0
  1418 0044 00       		.byte	0
  1419 0045 06       		.uleb128 0x6
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 26
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 26
 
 
  1420 0046 0D       		.uleb128 0xd
@@ -1558,7 +1558,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1474 007c 0B       		.uleb128 0xb
  1475 007d 0B       		.uleb128 0xb
  1476 007e 00       		.byte	0
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 27
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 27
 
 
  1477 007f 00       		.byte	0
@@ -1618,7 +1618,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1531 00b5 03       		.uleb128 0x3
  1532 00b6 0E       		.uleb128 0xe
  1533 00b7 3A       		.uleb128 0x3a
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 28
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 28
 
 
  1534 00b8 0B       		.uleb128 0xb
@@ -1678,7 +1678,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1588 00ee 00       		.byte	0
  1589 00ef 00       		.byte	0
  1590 00f0 15       		.uleb128 0x15
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 29
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 29
 
 
  1591 00f1 28       		.uleb128 0x28
@@ -1738,7 +1738,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1645 0128 00       		.byte	0
  1646 0129 19       		.uleb128 0x19
  1647 012a 34       		.uleb128 0x34
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 30
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 30
 
 
  1648 012b 00       		.byte	0
@@ -1798,7 +1798,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1702 016a 0B       		.uleb128 0xb
  1703 016b 27       		.uleb128 0x27
  1704 016c 19       		.uleb128 0x19
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 31
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 31
 
 
  1705 016d 49       		.uleb128 0x49
@@ -1858,7 +1858,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1759 01a4 3A       		.uleb128 0x3a
  1760 01a5 0B       		.uleb128 0xb
  1761 01a6 3B       		.uleb128 0x3b
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 32
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 32
 
 
  1762 01a7 0B       		.uleb128 0xb
@@ -1918,7 +1918,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1816 01e0 00       		.byte	0
  1817 01e1 00       		.byte	0
  1818 01e2 25       		.uleb128 0x25
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 33
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 33
 
 
  1819 01e3 05       		.uleb128 0x5
@@ -1978,7 +1978,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1873 0219 3A       		.uleb128 0x3a
  1874 021a 0B       		.uleb128 0xb
  1875 021b 3B       		.uleb128 0x3b
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 34
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 34
 
 
  1876 021c 05       		.uleb128 0x5
@@ -2038,7 +2038,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1930 0015 54       		.byte	0x54
  1931 0016 12000000 		.4byte	.LVL4
  1932 001a 15000000 		.4byte	.LVL5-1
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 35
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 35
 
 
  1933 001e 0100     		.2byte	0x1
@@ -2098,7 +2098,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  1987 00a1 88000000 		.4byte	.LVL20
  1988 00a5 0100     		.2byte	0x1
  1989 00a7 56       		.byte	0x56
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 36
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 36
 
 
  1990 00a8 88000000 		.4byte	.LVL20
@@ -2158,7 +2158,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2044 0128 18000000 		.4byte	.LVL22
  2045 012c 0100     		.2byte	0x1
  2046 012e 50       		.byte	0x50
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 37
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 37
 
 
  2047 012f 18000000 		.4byte	.LVL22
@@ -2218,7 +2218,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2101              		.section	.debug_ranges,"",%progbits
  2102              	.Ldebug_ranges0:
  2103 0000 06000000 		.4byte	.LBB2
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 38
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 38
 
 
  2104 0004 0E000000 		.4byte	.LBE2
@@ -2278,7 +2278,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2137      7369676E 
  2137      65642069 
  2138              	.LASF116:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 39
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 39
 
 
  2139 0064 76657852 		.ascii	"vexRobotcTask\000"
@@ -2338,7 +2338,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2165      61746546 
  2165      726F6D48 
  2165      65617000 
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 40
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 40
 
 
  2166              	.LASF21:
@@ -2398,7 +2398,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2191      31203230 
  2191      31363039 
  2192 01d3 616E6368 		.ascii	"anch revision 240496] -mcpu=cortex-m3 -mno-thumb-in"
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 41
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 41
 
 
  2192      20726576 
@@ -2458,7 +2458,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2211      74616C5F 
  2211      3600
  2212              	.LASF78:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 42
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 42
 
 
  2213 02e2 6B566578 		.ascii	"kVexDigital_7\000"
@@ -2518,7 +2518,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2240              	.LASF103:
  2241 0375 53746F70 		.ascii	"StopTask\000"
  2241      5461736B 
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 43
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 43
 
 
  2241      00
@@ -2578,7 +2578,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2271 0405 72635461 		.ascii	"rcTasks\000"
  2271      736B7300 
  2272              	.LASF68:
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 44
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 44
 
 
  2273 040d 65776D61 		.ascii	"ewmask\000"
@@ -2638,7 +2638,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2301      4368616E 
  2301      6E656C5F 
  2301      3400
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 45
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 45
 
 
  2302              	.LASF91:
@@ -2698,7 +2698,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2326              	.LASF52:
  2327 053b 636F6E74 		.ascii	"context\000"
  2327      65787400 
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 46
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 46
 
 
  2328              	.LASF51:
@@ -2758,7 +2758,7 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2359 05d9 705F7761 		.ascii	"p_waiting\000"
  2359      6974696E 
  2359      6700
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 47
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 47
 
 
  2360              	.LASF85:
@@ -2768,27 +2768,27 @@ ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 1
  2361      6E707574 
  2361      00
  2362              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160919 (release) [ARM/embedded-5-bran
-ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s 			page 48
+ARM GAS  /var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s 			page 48
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 robotc_glue.c
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:20     .text.vexRobotcTask:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:25     .text.vexRobotcTask:0000000000000000 vexRobotcTask
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:69     .text.vexRobotcTask:0000000000000018 $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:74     .text.StartTaskWithPriority:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:80     .text.StartTaskWithPriority:0000000000000000 StartTaskWithPriority
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:232    .text.StartTaskWithPriority:000000000000008c $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:239    .text.StopTask:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:245    .text.StopTask:0000000000000000 StopTask
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:322    .text.StopTask:0000000000000064 $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:328    .text.CleanupTask:0000000000000000 $t
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:334    .text.CleanupTask:0000000000000000 CleanupTask
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:371    .text.CleanupTask:0000000000000024 $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:379    .data.init.7450:0000000000000000 init.7450
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:382    .rodata.str1.4:0000000000000000 $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:386    .bss.rcTasks:0000000000000000 $d
-/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//ccM5en71.s:390    .bss.rcTasks:0000000000000000 rcTasks
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:20     .text.vexRobotcTask:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:25     .text.vexRobotcTask:0000000000000000 vexRobotcTask
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:69     .text.vexRobotcTask:0000000000000018 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:74     .text.StartTaskWithPriority:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:80     .text.StartTaskWithPriority:0000000000000000 StartTaskWithPriority
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:232    .text.StartTaskWithPriority:000000000000008c $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:239    .text.StopTask:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:245    .text.StopTask:0000000000000000 StopTask
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:322    .text.StopTask:0000000000000064 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:328    .text.CleanupTask:0000000000000000 $t
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:334    .text.CleanupTask:0000000000000000 CleanupTask
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:371    .text.CleanupTask:0000000000000024 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:379    .data.init.7450:0000000000000000 init.7450
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:382    .rodata.str1.4:0000000000000000 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:386    .bss.rcTasks:0000000000000000 $d
+/var/folders/6q/x_mk5n_j3p7_c40r_2k_78980000gn/T//cc4sEcYI.s:390    .bss.rcTasks:0000000000000000 rcTasks
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS
